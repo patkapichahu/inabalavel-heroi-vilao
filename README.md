@@ -59,7 +59,7 @@ Um herói cósmico nascido das estrelas para proteger o universo das forças das
    ---
 
 ## 📜 Licença
-Todos os direitos reservados © 2025 Pablo Gomes
+Todos os direitos reservados
 Este projeto é estritamente proibido de ser copiado, distribuído, modificado ou utilizado de qualquer forma sem autorização prévia e por escrito do autor. Qualquer uso não autorizado será considerado violação de direitos autorais.
 
 ---
@@ -67,4 +67,4 @@ Este projeto é estritamente proibido de ser copiado, distribuído, modificado o
 ## 📬 Contato
 >GitHub: pablog-7
 
->Email: pablooliver853@gmail.com
+>Email: eduardofranke56@gmail.com
